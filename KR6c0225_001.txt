@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:04.029717
+#+DATE: 2015-08-30 19:47:05.196633
 #+TITLE: 佛說開覺自性般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0260
 #+PROPERTY: ID KR6c0225
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 260
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0225_T_001-0854c> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.260¶
-
- 《佛說開覺自性般若波羅蜜多¶
+No. 260¶
+《佛說開覺自性般若波羅蜜多¶
 經》卷第一¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵¶
