@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:04.049173
+#+DATE: 2015-08-30 19:47:04.912335
 #+TITLE: 佛說開覺自性般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0260
 #+PROPERTY: ID KR6c0225
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 260
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0225_T_002-0856b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說開覺自性般若波羅蜜多¶
+《佛說開覺自性般若波羅蜜多¶
 經》卷第二¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵¶
@@ -116,7 +115,7 @@
 此菩薩善得解脫。¶
 
 「復次，須菩提！若菩薩摩訶薩於諸色中解無¶
-相法，苦自止息、諸相寂靜。愚夫異生不能如¶
+相法，苦自止息、諸相寂靜。如夫異生不能如¶
 實了知色故，即於色中而生取著，現轉覆蔽。¶
 由彼於色生取著心、現覆蔽已，即於聲聞、緣¶
 覺乘中不能出離，何況大乘。又由如是取著、¶
