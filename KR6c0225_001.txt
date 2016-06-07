@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:04.029717
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:30
 #+TITLE: 佛說開覺自性般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0260
 #+PROPERTY: ID KR6c0225
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 260
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0225_T_001-0854c> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.260¶
-
- 《佛說開覺自性般若波羅蜜多¶
+No. 260¶
+《佛說開覺自性般若波羅蜜多¶
 經》卷第一¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵¶
@@ -43,9 +42,9 @@ No.260¶
 「　「若解無相法，
 　諸苦自止息，¶
 　眾相皆寂靜，
-　是菩薩所行。
+　是菩薩所行。」
 #+END_VERSE
-」¶
+¶
 
 「復次，須菩提！於諸色中，闇之與明平等依止。¶
 菩薩若能如實了知，解入此者，諸法亦然。是¶
@@ -63,9 +62,9 @@ No.260¶
 「　「若法闇與明，
 　平等性如是，¶
 　依止及解入，
-　知已得菩提。
+　知已得菩提。」
 #+END_VERSE
-」¶
+¶
 
 「復次，須菩提！若菩薩摩訶薩於諸色須菩提，¶
 受、想、行、識於三性轉，若有智者如實了知，即¶
